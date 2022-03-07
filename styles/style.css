@@ -1,0 +1,96 @@
+html, body, main, h1, h2{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width:100%;
+    height: 40%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.0em;
+    padding: 0.5em;
+    background-color:#ffffff;
+}
+head{
+    color:#0d83a0;
+    padding: 0.5em;
+    font-size: medium;
+}
+main{
+    width:90%;
+    height:90%;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 2.0em;
+    margin-left: 3.7em;   
+}
+h1{
+    color:#0d83a0;
+    padding: 0.3em;
+    font-size: 2.0em;
+    text-align: center;
+}
+.nav-link{
+    color:#0d83a0;
+    font-size: 1.2em;  
+}
+#imagesLogo{
+    margin-left: 1.0em;
+    padding: 0.1em;
+    width: 6%;
+    height: 6%;
+    text-align: center;
+
+}
+#imageslogin{
+    padding: 1.1em;
+    text-align: center;
+}
+#emailLogin{
+    width: 100%;
+    padding: 1.0em;
+    text-align: center;
+    color: #0d83a0;
+    border-radius: 8px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#emailPassword{
+    width: 100%;
+    padding: 1.0em;
+    text-align: center;
+    color: #0d83a0;
+    font-size: larger;
+    margin-right: 1.2em;
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#heckboxEmail{
+    border-radius: 8px;
+    border:1px solid #cdcdcd;
+    color: #0d83a0;
+}
+
+input{
+    
+    padding: 1.0em;
+    width: 40%;
+    height: 60%;
+    border-radius: 8px;
+    border:1px solid #cdcdcd;
+    line-height: 32px;
+}
+
+
+button{
+    position: relative;
+    width: 39.8%;
+    height: 3.5em;
+    line-height: 2.0em;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 8px;
+    color: #ffffff;
+}
+
